@@ -1,0 +1,80 @@
+# How to Translate Shopify Apps
+
+Shopify merchants often use several apps to manage their stores.
+
+The problem is that third-party Shopify apps may use a language that isn't comfortable for every merchant.
+
+If you are looking for a way to **translate Shopify apps**, you can use a browser translation extension such as Page Translate.
+
+## Why Shopify apps can be difficult to translate
+
+Shopify apps are created by different developers.
+
+Because of that, each app may have its own:
+
+- Interface
+- Settings
+- Buttons
+- Forms
+- Navigation
+- Help text
+- Dashboard
+- Reports
+
+An app may support English while providing limited or no support for your preferred language.
+
+## How to translate a Shopify app
+
+You can translate a Shopify app directly in Chrome with Page Translate.
+
+### Step 1: Install Page Translate
+
+Install Page Translate from the Chrome Web Store.
+
+**[Install Page Translate](CHROME_WEB_STORE_URL)**
+
+### Step 2: Open Shopify Admin
+
+Log in to your Shopify store and open the app you want to use.
+
+### Step 3: Start Page Translate
+
+Open Page Translate from Chrome and select the language you want to use.
+
+### Step 4: Translate the app
+
+Page Translate translates the visible content of the Shopify app while you continue working.
+
+## Can you translate different Shopify apps?
+
+Yes.
+
+The purpose of a browser-based translator is that it works at the browser level rather than requiring every Shopify app to implement its own translation system.
+
+This makes it useful when you regularly use multiple third-party Shopify apps.
+
+## Translate Shopify app settings
+
+Some Shopify apps contain large settings pages with many labels, descriptions, buttons, and options.
+
+Instead of translating each item manually, you can translate the page while working with the app.
+
+## Translate only what you need
+
+You can also translate selected text when you don't need to translate the whole Shopify app.
+
+For example:
+
+- A setting description
+- An error message
+- A button
+- A product-related term
+- A help message
+
+## Try Page Translate
+
+If you need to translate Shopify apps without waiting for individual app localization, try Page Translate.
+
+**[Translate Shopify apps with Page Translate →](CHROME_WEB_STORE_URL)**
+
+[Learn more about Shopify Translator →](WEBSITE_URL/shopify-translator)
