@@ -1,0 +1,62 @@
+# Shopify App Translation: How to Use Shopify Apps in Another Language
+
+Shopify merchants often install several apps to run their stores.
+
+However, not every Shopify app supports every language.
+
+This creates a common problem: the Shopify store may be localized while a third-party app is still displayed in English.
+
+## What is Shopify app translation?
+
+Shopify app translation means translating the interface of a Shopify app into another language.
+
+This can include:
+
+- Navigation
+- Buttons
+- Settings
+- Labels
+- Descriptions
+- Messages
+- Dashboard content
+- Forms
+
+There are two different sides to this problem.
+
+### App developers
+
+Developers can build localization directly into their Shopify apps.
+
+This gives the developer full control over translated strings and the app's user experience.
+
+### Merchants
+
+Merchants may need a translation solution immediately, even when the app does not support their language.
+
+A browser translation extension can help in this situation.
+
+## Translate Shopify apps from Chrome
+
+Page Translate lets merchants translate Shopify app interfaces directly from Chrome.
+
+This is particularly useful when a merchant uses multiple third-party apps.
+
+Instead of checking whether every app supports the preferred language, the merchant can translate the interface while using it.
+
+## Shopify app translation for agencies
+
+Shopify agencies often work with merchants from different countries.
+
+A browser translator can be useful when an agency needs to work with an app that uses an unfamiliar language.
+
+## Shopify app translation for developers
+
+Developers can also use browser translation while testing applications, reviewing third-party tools, or working with international stores.
+
+## Try Page Translate
+
+If you need to translate Shopify app interfaces directly in Chrome, Page Translate provides a simple way to translate the content while you work.
+
+**[Try Page Translate →](CHROME_WEB_STORE_URL)**
+
+[Learn how to translate Shopify apps →](WEBSITE_URL/translate-shopify-apps)
